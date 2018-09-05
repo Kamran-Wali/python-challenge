@@ -1,0 +1,8 @@
+Financial Analysis Of The budget_data_csv Is As Follows: 
+----------------------------------------------------------
+    Total Revenue Months: 86
+    Total revenue: $38382578
+    Average Change In Revenue: $7803
+    Greatest Increase in Revenue: Feb-2012 ($1926159)
+    Greatest Decrease in Revenue: Sep-2013 ($-2196167)
+

@@ -1,0 +1,11 @@
+Election Results From Data Taken From The election_data.csv Is As Follows: 
+----------------------------------------------------------
+Total Vote: 3521001
+----------------------------------------------------------
+O'Tooley: 3.0% With a vote count of: 105630
+Khan: 63.0% With a vote count of: 2218231
+Li: 14.0% With a vote count of: 492940
+Correy: 20.0% With a vote count of: 704200
+----------------------------------------------------------
+The Winning Candidate Is: Khan
+----------------------------------------------------------
